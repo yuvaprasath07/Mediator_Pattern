@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRPattern_CRUD", "MediatRPattern_CRUD\MediatRPattern_CRUD.csproj", "{7347DE72-83CB-42BD-B7FC-7C54AAB1ACC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_Operation", "CRUD_Operation\CRUD_Operation.csproj", "{0D16DDBF-3E79-42D4-8311-77B13F8B15FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7347DE72-83CB-42BD-B7FC-7C54AAB1ACC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7347DE72-83CB-42BD-B7FC-7C54AAB1ACC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7347DE72-83CB-42BD-B7FC-7C54AAB1ACC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7347DE72-83CB-42BD-B7FC-7C54AAB1ACC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D16DDBF-3E79-42D4-8311-77B13F8B15FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D16DDBF-3E79-42D4-8311-77B13F8B15FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D16DDBF-3E79-42D4-8311-77B13F8B15FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D16DDBF-3E79-42D4-8311-77B13F8B15FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F19F127C-2D52-4448-9DAF-F9478E4C06B8}
+	EndGlobalSection
+EndGlobal
